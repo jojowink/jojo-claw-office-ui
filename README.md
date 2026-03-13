@@ -2,7 +2,7 @@
 
 🌐 Language: **中文** | [English](./README.en.md) | [日本語](./README.ja.md)
 
-![Star Office UI 封面](docs/screenshots/readme-cover-2.jpg)
+![Star Office UI 封面]
 
 **一个像素风格的 AI 办公室看板** —— 把 AI 助手的工作状态实时可视化，让你直观看到"谁在做什么、昨天做了什么、现在是否在线"。
 
