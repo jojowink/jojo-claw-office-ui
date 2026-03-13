@@ -2,17 +2,8 @@
 
 🌐 Language: [中文](./README.md) | [English](./README.en.md) | **日本語**
 
-![Star Office UI カバー](docs/screenshots/readme-cover-2.jpg)
+![Star Office UI カバー]
 
-**ピクセルアート風 AI オフィスダッシュボード** —— AI アシスタントの作業状態をリアルタイムで可視化し、「誰が何をしているか」「昨日何をしたか」「今オンラインか」を直感的に把握できます。
-
-マルチ Agent 協調、中英日 3 言語、AI 画像生成による模様替え、デスクトップペットモードに対応。
-[OpenClaw](https://github.com/openclaw/openclaw) との統合で最高の体験が得られますが、単体でもステータスダッシュボードとして利用可能です。
-
-> 本プロジェクトは **[Ring Hyacinth](https://x.com/ring_hyacinth)** と **[Simon Lee](https://x.com/simonxxoo)** の共同制作（co-created project）であり、コミュニティの開発者（[@Zhaohan-Wang](https://github.com/Zhaohan-Wang)、[@Jah-yee](https://github.com/Jah-yee)、[@liaoandi](https://github.com/liaoandi)）とともに継続的にメンテナンス・改善を行っています。
-> Issue や PR を歓迎します。貢献してくださるすべての方に感謝いたします。
-
----
 
 ## ✨ クイックスタート
 
